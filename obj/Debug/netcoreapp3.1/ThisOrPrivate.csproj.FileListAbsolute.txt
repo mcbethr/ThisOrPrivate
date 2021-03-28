@@ -1,0 +1,13 @@
+C:\code\ThisOrPrivate\bin\Debug\netcoreapp3.1\ThisOrPrivate.exe
+C:\code\ThisOrPrivate\bin\Debug\netcoreapp3.1\ThisOrPrivate.deps.json
+C:\code\ThisOrPrivate\bin\Debug\netcoreapp3.1\ThisOrPrivate.runtimeconfig.json
+C:\code\ThisOrPrivate\bin\Debug\netcoreapp3.1\ThisOrPrivate.runtimeconfig.dev.json
+C:\code\ThisOrPrivate\bin\Debug\netcoreapp3.1\ThisOrPrivate.dll
+C:\code\ThisOrPrivate\bin\Debug\netcoreapp3.1\ThisOrPrivate.pdb
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.csprojAssemblyReference.cache
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.AssemblyInfoInputs.cache
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.AssemblyInfo.cs
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.csproj.CoreCompileInputs.cache
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.dll
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.pdb
+C:\code\ThisOrPrivate\obj\Debug\netcoreapp3.1\ThisOrPrivate.genruntimeconfig.cache
